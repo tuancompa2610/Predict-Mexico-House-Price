@@ -9,3 +9,7 @@
   - [Report](#-report)
   - [Contribution](#-contribution)
   
+## About Repository
+In this repository I will build a reggresion model to predict housing price in Mexico.
+
+This project was inspired by the lesson I learned in [WQU](https://www.wqu.edu/)
