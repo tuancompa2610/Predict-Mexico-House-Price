@@ -21,5 +21,7 @@ This is a Jupyter notebook. Package requirements are included in requirement.txt
 The notebook includes all the markdowns which explain the process.
 
 ## Report
-| Model | Train accuracy | Val accuracy |
-| Linear Regression | 
+| Model | Baseline MAE | Val MAE |
+| ----- | ------------ | ------- |
+| Linear Regression | 17189.62 | 15200.969446104538 |
+| Ridge | 17189.62 | 15200.246518925875|
