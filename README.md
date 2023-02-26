@@ -22,7 +22,7 @@ The notebook includes all the markdowns which explain the process.
 
 ## Model using
 * Linear Regression [Linear Regression](https://paperswithcode.com/method/linear-regression)
-* Ridge []
+* Ridge [Ridge Regression](https://arxiv.org/pdf/1509.09169.pdf)
 
 ## Report
 | Model | Baseline MAE | Val MAE |
